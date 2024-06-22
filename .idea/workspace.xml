@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7be4d4c-62aa-435e-9023-60b03eaaa592" name="Changes" comment="HackerRank">
-      <change afterPath="$PROJECT_DIR$/GradingStudents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LonelyInteger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c7be4d4c-62aa-435e-9023-60b03eaaa592" name="Changes" comment="HackerRank" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,20 +46,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.BreakingTheRecords.executor": "Run",
-    "Python.CamelCase.executor": "Run",
-    "Python.DivisibleSumPairs.executor": "Run",
-    "Python.FindMedian.executor": "Run",
-    "Python.GradingStudents.executor": "Run",
-    "Python.LonelyInteger.executor": "Run",
-    "Python.MinMaxNum.executor": "Run",
-    "Python.SparseArrays.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Day2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.BreakingTheRecords.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CamelCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DivisibleSumPairs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FindMedian.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GradingStudents.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LonelyInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MinMaxNum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SparseArrays.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Day2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.GradingStudents">
     <configuration name="DivisibleSumPairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
@@ -271,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718978785565</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="HackerRank">
+      <option name="closed" value="true" />
+      <created>1718995077554</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718995077554</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
