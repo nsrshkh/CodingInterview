@@ -36,6 +36,7 @@ def split_operation(i_string: str):
     n = ' '.join(i.lower() for i in get_string_list(c_name))
     return n
 
+
 def combine_operation(i_string: str, class_type: str):
     n = []
     l_name = i_string.split()
