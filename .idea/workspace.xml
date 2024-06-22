@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7be4d4c-62aa-435e-9023-60b03eaaa592" name="Changes" comment="HackerRank" />
+    <list default="true" id="c7be4d4c-62aa-435e-9023-60b03eaaa592" name="Changes" comment="HackerRank">
+      <change afterPath="$PROJECT_DIR$/CountingSort1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountingValleys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiagonalDifference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlippingBits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlippingTheMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MarsExploration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pangrams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,22 +55,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.BreakingTheRecords.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CamelCase.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DivisibleSumPairs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FindMedian.executor&quot;: &quot;Run&quot;,
-    &quot;Python.GradingStudents.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LonelyInteger.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MinMaxNum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SparseArrays.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Day2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.BreakingTheRecords.executor": "Run",
+    "Python.CamelCase.executor": "Run",
+    "Python.CountingSort1.executor": "Run",
+    "Python.DiagonalDifference.executor": "Run",
+    "Python.DivisibleSumPairs.executor": "Run",
+    "Python.FindMedian.executor": "Run",
+    "Python.FlippingBits.executor": "Run",
+    "Python.FlippingTheMatrix.executor": "Run",
+    "Python.GradingStudents.executor": "Run",
+    "Python.LonelyInteger.executor": "Run",
+    "Python.MarsExploration.executor": "Run",
+    "Python.MinMaxNum.executor": "Run",
+    "Python.Pangrams.executor": "Run",
+    "Python.SparseArrays.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Day3"
   }
-}</component>
-  <component name="RunManager" selected="Python.GradingStudents">
-    <configuration name="DivisibleSumPairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.FlippingTheMatrix">
+    <configuration name="CountingSort1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,7 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DivisibleSumPairs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CountingSort1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FindMedian" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DiagonalDifference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FindMedian.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DiagonalDifference.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="GradingStudents" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="FlippingTheMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GradingStudents.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FlippingTheMatrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LonelyInteger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MarsExploration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,7 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LonelyInteger.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MarsExploration.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SparseArrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Pangrams" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,7 +177,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SparseArrays.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pangrams.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.GradingStudents" />
-        <item itemvalue="Python.LonelyInteger" />
-        <item itemvalue="Python.FindMedian" />
-        <item itemvalue="Python.SparseArrays" />
-        <item itemvalue="Python.DivisibleSumPairs" />
+        <item itemvalue="Python.FlippingTheMatrix" />
+        <item itemvalue="Python.MarsExploration" />
+        <item itemvalue="Python.Pangrams" />
+        <item itemvalue="Python.CountingSort1" />
+        <item itemvalue="Python.DiagonalDifference" />
       </list>
     </recent_temporary>
   </component>
