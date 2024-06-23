@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7be4d4c-62aa-435e-9023-60b03eaaa592" name="Changes" comment="HackerRank Day3">
+      <change afterPath="$PROJECT_DIR$/DrawingBook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaximumPerimeterTriangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MigratoryBirds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PermutingTwoArrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesByMatch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SubarrayDivision2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XORStrings3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZigZagSequence.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlippingTheMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/FlippingTheMatrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountingValleys.py" beforeDir="false" afterPath="$PROJECT_DIR$/CountingValleys.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,28 +57,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.BreakingTheRecords.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CamelCase.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CountingSort1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DiagonalDifference.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DivisibleSumPairs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FindMedian.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FlippingBits.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FlippingTheMatrix.executor&quot;: &quot;Run&quot;,
-    &quot;Python.GradingStudents.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LonelyInteger.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MarsExploration.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MinMaxNum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Pangrams.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SparseArrays.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Day3&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.BreakingTheRecords.executor": "Run",
+    "Python.CamelCase.executor": "Run",
+    "Python.CountingSort1.executor": "Run",
+    "Python.CountingValleys.executor": "Run",
+    "Python.DiagonalDifference.executor": "Run",
+    "Python.DivisibleSumPairs.executor": "Run",
+    "Python.DrawingBook.executor": "Run",
+    "Python.FindMedian.executor": "Run",
+    "Python.FlippingBits.executor": "Run",
+    "Python.FlippingTheMatrix.executor": "Run",
+    "Python.GradingStudents.executor": "Run",
+    "Python.LonelyInteger.executor": "Run",
+    "Python.MarsExploration.executor": "Run",
+    "Python.MaximumPerimeterTriangle.executor": "Run",
+    "Python.MigratoryBirds.executor": "Run",
+    "Python.MinMaxNum.executor": "Run",
+    "Python.Pangrams.executor": "Run",
+    "Python.PermutingTwoArrays.executor": "Run",
+    "Python.SalesByMatch.executor": "Run",
+    "Python.SparseArrays.executor": "Run",
+    "Python.SubarrayDivision2.executor": "Run",
+    "Python.XORStrings3.executor": "Run",
+    "Python.ZigZagSequence.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Day4"
   }
-}</component>
-  <component name="RunManager" selected="Python.FlippingTheMatrix">
-    <configuration name="CountingSort1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.DrawingBook">
+    <configuration name="DrawingBook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CountingSort1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DrawingBook.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DiagonalDifference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MaximumPerimeterTriangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,7 +122,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DiagonalDifference.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MaximumPerimeterTriangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FlippingTheMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MigratoryBirds" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FlippingTheMatrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MigratoryBirds.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MarsExploration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SalesByMatch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,7 +166,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MarsExploration.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SalesByMatch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Pangrams" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ZigZagSequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,7 +188,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pangrams.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ZigZagSequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.FlippingTheMatrix" />
-        <item itemvalue="Python.MarsExploration" />
-        <item itemvalue="Python.Pangrams" />
-        <item itemvalue="Python.CountingSort1" />
-        <item itemvalue="Python.DiagonalDifference" />
+        <item itemvalue="Python.DrawingBook" />
+        <item itemvalue="Python.ZigZagSequence" />
+        <item itemvalue="Python.MaximumPerimeterTriangle" />
+        <item itemvalue="Python.MigratoryBirds" />
+        <item itemvalue="Python.SalesByMatch" />
       </list>
     </recent_temporary>
   </component>
@@ -299,5 +316,16 @@
     <MESSAGE value="HackerRank" />
     <MESSAGE value="HackerRank Day3" />
     <option name="LAST_COMMIT_MESSAGE" value="HackerRank Day3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
