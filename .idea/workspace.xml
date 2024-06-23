@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7be4d4c-62aa-435e-9023-60b03eaaa592" name="Changes" comment="HackerRank" />
+    <list default="true" id="c7be4d4c-62aa-435e-9023-60b03eaaa592" name="Changes" comment="HackerRank Day3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlippingTheMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/FlippingTheMatrix.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,18 +53,24 @@
   &quot;keyToString&quot;: {
     &quot;Python.BreakingTheRecords.executor&quot;: &quot;Run&quot;,
     &quot;Python.CamelCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CountingSort1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DiagonalDifference.executor&quot;: &quot;Run&quot;,
     &quot;Python.DivisibleSumPairs.executor&quot;: &quot;Run&quot;,
     &quot;Python.FindMedian.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FlippingBits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FlippingTheMatrix.executor&quot;: &quot;Run&quot;,
     &quot;Python.GradingStudents.executor&quot;: &quot;Run&quot;,
     &quot;Python.LonelyInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MarsExploration.executor&quot;: &quot;Run&quot;,
     &quot;Python.MinMaxNum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pangrams.executor&quot;: &quot;Run&quot;,
     &quot;Python.SparseArrays.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Day2&quot;
+    &quot;git-widget-placeholder&quot;: &quot;Day3&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.GradingStudents">
-    <configuration name="DivisibleSumPairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.FlippingTheMatrix">
+    <configuration name="CountingSort1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DivisibleSumPairs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CountingSort1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FindMedian" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DiagonalDifference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,7 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FindMedian.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DiagonalDifference.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="GradingStudents" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="FlippingTheMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,7 +127,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GradingStudents.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FlippingTheMatrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LonelyInteger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MarsExploration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,7 +149,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LonelyInteger.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MarsExploration.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SparseArrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Pangrams" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,7 +171,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SparseArrays.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pangrams.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.GradingStudents" />
-        <item itemvalue="Python.LonelyInteger" />
-        <item itemvalue="Python.FindMedian" />
-        <item itemvalue="Python.SparseArrays" />
-        <item itemvalue="Python.DivisibleSumPairs" />
+        <item itemvalue="Python.FlippingTheMatrix" />
+        <item itemvalue="Python.MarsExploration" />
+        <item itemvalue="Python.Pangrams" />
+        <item itemvalue="Python.CountingSort1" />
+        <item itemvalue="Python.DiagonalDifference" />
       </list>
     </recent_temporary>
   </component>
@@ -275,11 +284,20 @@
       <option name="project" value="LOCAL" />
       <updated>1718995077554</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="HackerRank Day3">
+      <option name="closed" value="true" />
+      <created>1719062083119</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719062083119</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HackerRank" />
-    <option name="LAST_COMMIT_MESSAGE" value="HackerRank" />
+    <MESSAGE value="HackerRank Day3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HackerRank Day3" />
   </component>
 </project>
