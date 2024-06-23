@@ -10,8 +10,10 @@ def flippingMatrix(matrix):
     sum = 0
     n = len(matrix)
     rng = n // 2
+    print(rng)
     for i in range(rng):
         for j in range(rng):
+            print(i, j, n - j - 1, n - i - 1)
             if i < rng and j < rng:
                 sum += max(matrix[i][j], matrix[i][n - j - 1], matrix[n - i - 1][j], matrix[n - i - 1][n - j - 1])
     return sum
