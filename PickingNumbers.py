@@ -19,23 +19,15 @@ def pickingNumbers(a):
 def pickingNumbers1(a):
     a.sort()
     k = []
+    print(a)
     for i in a:
         k.append(a.count(i) + a.count(i + 1))
+    print(k)
     return max(k)
 
 
 # a = [4, 6, 5, 3, 3, 1]
-a = [1, 2, 2, 3, 1, 2]
-# a = [4, 6, 5, 3, 3, 1]
-
-a.sort()
-print(a)
-b = []
-for i in range(len(a)):
-    for j in range(i + 1, len(a)):
-        print(a[i], a[j])
-        # if abs(a[i] - a[j]) <= 1 and a[i] != a[j]:
-        #     b.append(a[i])
-# print(b)
+# a = [1, 2, 2, 3, 1, 2]
+a = [4, 6, 5, 3, 3, 1]
 
 print(pickingNumbers1(a))

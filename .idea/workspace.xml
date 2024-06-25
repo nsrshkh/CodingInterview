@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7be4d4c-62aa-435e-9023-60b03eaaa592" name="Changes" comment="HackerRank Day4">
-      <change afterPath="$PROJECT_DIR$/BetweenTwoSets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PickingNumbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PickingNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/PickingNumbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,37 +49,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.BetweenTwoSets.executor": "Run",
-    "Python.BreakingTheRecords.executor": "Run",
-    "Python.CamelCase.executor": "Run",
-    "Python.CountingSort1.executor": "Run",
-    "Python.CountingValleys.executor": "Run",
-    "Python.DiagonalDifference.executor": "Run",
-    "Python.DivisibleSumPairs.executor": "Run",
-    "Python.DrawingBook.executor": "Run",
-    "Python.FindMedian.executor": "Run",
-    "Python.FlippingBits.executor": "Run",
-    "Python.FlippingTheMatrix.executor": "Run",
-    "Python.GradingStudents.executor": "Run",
-    "Python.LonelyInteger.executor": "Run",
-    "Python.MarsExploration.executor": "Run",
-    "Python.MaximumPerimeterTriangle.executor": "Run",
-    "Python.MigratoryBirds.executor": "Run",
-    "Python.MinMaxNum.executor": "Run",
-    "Python.Pangrams.executor": "Run",
-    "Python.PermutingTwoArrays.executor": "Run",
-    "Python.PickingNumbers.executor": "Run",
-    "Python.SalesByMatch.executor": "Run",
-    "Python.SparseArrays.executor": "Run",
-    "Python.SubarrayDivision2.executor": "Run",
-    "Python.XORStrings3.executor": "Run",
-    "Python.ZigZagSequence.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Day4"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.BetweenTwoSets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BreakingTheRecords.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CamelCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CountingSort1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CountingValleys.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DiagonalDifference.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DivisibleSumPairs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DrawingBook.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FindMedian.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FlippingBits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FlippingTheMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GradingStudents.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LonelyInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MarsExploration.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MaximumPerimeterTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MigratoryBirds.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MinMaxNum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pangrams.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PermutingTwoArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PickingNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SalesByMatch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SparseArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SubarrayDivision2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XORStrings3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ZigZagSequence.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Day4&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.PickingNumbers">
     <configuration name="BetweenTwoSets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
@@ -320,7 +319,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719154131400</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="HackerRank Day4">
+      <option name="closed" value="true" />
+      <created>1719235590795</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1719235590795</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
