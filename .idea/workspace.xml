@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7be4d4c-62aa-435e-9023-60b03eaaa592" name="Changes" comment="HackerRank Day3">
+    <list default="true" id="c7be4d4c-62aa-435e-9023-60b03eaaa592" name="Changes" comment="HackerRank Day4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlippingTheMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/FlippingTheMatrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PickingNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/PickingNumbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,26 +51,37 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.BetweenTwoSets.executor&quot;: &quot;Run&quot;,
     &quot;Python.BreakingTheRecords.executor&quot;: &quot;Run&quot;,
     &quot;Python.CamelCase.executor&quot;: &quot;Run&quot;,
     &quot;Python.CountingSort1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CountingValleys.executor&quot;: &quot;Run&quot;,
     &quot;Python.DiagonalDifference.executor&quot;: &quot;Run&quot;,
     &quot;Python.DivisibleSumPairs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DrawingBook.executor&quot;: &quot;Run&quot;,
     &quot;Python.FindMedian.executor&quot;: &quot;Run&quot;,
     &quot;Python.FlippingBits.executor&quot;: &quot;Run&quot;,
     &quot;Python.FlippingTheMatrix.executor&quot;: &quot;Run&quot;,
     &quot;Python.GradingStudents.executor&quot;: &quot;Run&quot;,
     &quot;Python.LonelyInteger.executor&quot;: &quot;Run&quot;,
     &quot;Python.MarsExploration.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MaximumPerimeterTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MigratoryBirds.executor&quot;: &quot;Run&quot;,
     &quot;Python.MinMaxNum.executor&quot;: &quot;Run&quot;,
     &quot;Python.Pangrams.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PermutingTwoArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PickingNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SalesByMatch.executor&quot;: &quot;Run&quot;,
     &quot;Python.SparseArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SubarrayDivision2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XORStrings3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ZigZagSequence.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Day3&quot;
+    &quot;git-widget-placeholder&quot;: &quot;Day4&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.FlippingTheMatrix">
-    <configuration name="CountingSort1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.PickingNumbers">
+    <configuration name="BetweenTwoSets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CountingSort1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BetweenTwoSets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DiagonalDifference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DrawingBook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DiagonalDifference.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DrawingBook.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FlippingTheMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MaximumPerimeterTriangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FlippingTheMatrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MaximumPerimeterTriangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MarsExploration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PickingNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,7 +160,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MarsExploration.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PickingNumbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Pangrams" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ZigZagSequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,7 +182,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pangrams.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ZigZagSequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.FlippingTheMatrix" />
-        <item itemvalue="Python.MarsExploration" />
-        <item itemvalue="Python.Pangrams" />
-        <item itemvalue="Python.CountingSort1" />
-        <item itemvalue="Python.DiagonalDifference" />
+        <item itemvalue="Python.PickingNumbers" />
+        <item itemvalue="Python.BetweenTwoSets" />
+        <item itemvalue="Python.DrawingBook" />
+        <item itemvalue="Python.ZigZagSequence" />
+        <item itemvalue="Python.MaximumPerimeterTriangle" />
       </list>
     </recent_temporary>
   </component>
@@ -292,12 +303,48 @@
       <option name="project" value="LOCAL" />
       <updated>1719062083119</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="HackerRank Day4">
+      <option name="closed" value="true" />
+      <created>1719154121412</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719154121412</updated>
+    </task>
+    <task id="LOCAL-00010" summary="HackerRank Day4">
+      <option name="closed" value="true" />
+      <created>1719154131400</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719154131400</updated>
+    </task>
+    <task id="LOCAL-00011" summary="HackerRank Day4">
+      <option name="closed" value="true" />
+      <created>1719235590795</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1719235590795</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HackerRank" />
     <MESSAGE value="HackerRank Day3" />
-    <option name="LAST_COMMIT_MESSAGE" value="HackerRank Day3" />
+    <MESSAGE value="HackerRank Day4" />
+    <option name="LAST_COMMIT_MESSAGE" value="HackerRank Day4" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
