@@ -1,0 +1,147 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"c7be4d4c-62aa-435e-9023-60b03eaaa592\" name=\"Changes\" comment=\"HackerRank Day4\">\r\n      <change afterPath=\"$PROJECT_DIR$/Anagram.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/CaesarCipher.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ClosestNumbers.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/LeftRotation.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/MinimumAbsDiffInArray.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/NumberLineJumps.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/SeparateTheNumbers.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/TowerBreakers.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;nsrshkh&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/nsrshkh/CodingInterview.git&quot;,\r\n    &quot;accountId&quot;: &quot;78dea38e-0621-4ea5-b7f5-31e1736ef459&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 8\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2i8t9TuKA5viyhRCO3g6ZekIVwZ\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.Anagram.executor\": \"Run\",\r\n    \"Python.BetweenTwoSets.executor\": \"Run\",\r\n    \"Python.BreakingTheRecords.executor\": \"Run\",\r\n    \"Python.CaesarCipher.executor\": \"Run\",\r\n    \"Python.CamelCase.executor\": \"Run\",\r\n    \"Python.ClosestNumbers.executor\": \"Run\",\r\n    \"Python.CountingSort1.executor\": \"Run\",\r\n    \"Python.CountingValleys.executor\": \"Run\",\r\n    \"Python.DiagonalDifference.executor\": \"Run\",\r\n    \"Python.DivisibleSumPairs.executor\": \"Run\",\r\n    \"Python.DrawingBook.executor\": \"Run\",\r\n    \"Python.FindMedian.executor\": \"Run\",\r\n    \"Python.FlippingBits.executor\": \"Run\",\r\n    \"Python.FlippingTheMatrix.executor\": \"Run\",\r\n    \"Python.GradingStudents.executor\": \"Run\",\r\n    \"Python.LeftRotation.executor\": \"Run\",\r\n    \"Python.LonelyInteger.executor\": \"Run\",\r\n    \"Python.MarsExploration.executor\": \"Run\",\r\n    \"Python.MaximumPerimeterTriangle.executor\": \"Run\",\r\n    \"Python.MigratoryBirds.executor\": \"Run\",\r\n    \"Python.MinMaxNum.executor\": \"Run\",\r\n    \"Python.MinimumAbsDiffInArray.executor\": \"Run\",\r\n    \"Python.NumberLineJumps.executor\": \"Run\",\r\n    \"Python.Pangrams.executor\": \"Run\",\r\n    \"Python.PermutingTwoArrays.executor\": \"Run\",\r\n    \"Python.PickingNumbers.executor\": \"Run\",\r\n    \"Python.SalesByMatch.executor\": \"Run\",\r\n    \"Python.SeparateTheNumbers.executor\": \"Run\",\r\n    \"Python.SparseArrays.executor\": \"Run\",\r\n    \"Python.SubarrayDivision2.executor\": \"Run\",\r\n    \"Python.TowerBreakers.executor\": \"Run\",\r\n    \"Python.XORStrings3.executor\": \"Run\",\r\n    \"Python.ZigZagSequence.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"Day5\",\r\n    \"settings.editor.selected.configurable\": \"preferences.pluginManager\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"Python.Anagram\">\r\n    <configuration name=\"Anagram\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"CodingInterview\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Anagram.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"CaesarCipher\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"CodingInterview\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/CaesarCipher.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"ClosestNumbers\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"CodingInterview\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/ClosestNumbers.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"NumberLineJumps\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"CodingInterview\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/NumberLineJumps.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"TowerBreakers\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"CodingInterview\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/TowerBreakers.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\r\n      <module name=\"CodingInterview\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.Anagram\" />\r\n        <item itemvalue=\"Python.NumberLineJumps\" />\r\n        <item itemvalue=\"Python.TowerBreakers\" />\r\n        <item itemvalue=\"Python.CaesarCipher\" />\r\n        <item itemvalue=\"Python.ClosestNumbers\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-a8eb5a889f9a-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.18071.12\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"c7be4d4c-62aa-435e-9023-60b03eaaa592\" name=\"Changes\" comment=\"\" />\r\n      <created>1718883880508</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1718883880508</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"HackerRank\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1718904834711</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1718904834711</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"HackerRank\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1718905112841</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1718905112841</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"HackerRank\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1718971018839</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1718971018839</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"HackerRank\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1718971985873</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1718971985873</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"HackerRank\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1718978266326</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1718978266326</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"HackerRank\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1718978785565</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1718978785565</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"HackerRank\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1718995077554</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1718995077554</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"HackerRank Day3\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1719062083119</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1719062083119</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"HackerRank Day4\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1719154121412</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1719154121412</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"HackerRank Day4\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1719154131400</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1719154131400</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"HackerRank Day4\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1719235590795</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1719235590795</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"12\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"HackerRank\" />\r\n    <MESSAGE value=\"HackerRank Day3\" />\r\n    <MESSAGE value=\"HackerRank Day4\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"HackerRank Day4\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <default-breakpoints>\r\n        <breakpoint type=\"python-exception\">\r\n          <properties notifyOnTerminate=\"true\" exception=\"BaseException\">\r\n            <option name=\"notifyOnTerminate\" value=\"true\" />\r\n          </properties>\r\n        </breakpoint>\r\n      </default-breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 8a5feff8e3a07a6ad2e3142477567c35efdfb295)
++++ b/.idea/workspace.xml	(date 1719388718371)
+@@ -4,15 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="c7be4d4c-62aa-435e-9023-60b03eaaa592" name="Changes" comment="HackerRank Day4">
+-      <change afterPath="$PROJECT_DIR$/Anagram.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/CaesarCipher.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ClosestNumbers.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/LeftRotation.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/MinimumAbsDiffInArray.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/NumberLineJumps.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/SeparateTheNumbers.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/TowerBreakers.py" afterDir="false" />
++    <list default="true" id="c7be4d4c-62aa-435e-9023-60b03eaaa592" name="Changes" comment="HackerRank Day5">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -56,46 +48,46 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Python.Anagram.executor": "Run",
+-    "Python.BetweenTwoSets.executor": "Run",
+-    "Python.BreakingTheRecords.executor": "Run",
+-    "Python.CaesarCipher.executor": "Run",
+-    "Python.CamelCase.executor": "Run",
+-    "Python.ClosestNumbers.executor": "Run",
+-    "Python.CountingSort1.executor": "Run",
+-    "Python.CountingValleys.executor": "Run",
+-    "Python.DiagonalDifference.executor": "Run",
+-    "Python.DivisibleSumPairs.executor": "Run",
+-    "Python.DrawingBook.executor": "Run",
+-    "Python.FindMedian.executor": "Run",
+-    "Python.FlippingBits.executor": "Run",
+-    "Python.FlippingTheMatrix.executor": "Run",
+-    "Python.GradingStudents.executor": "Run",
+-    "Python.LeftRotation.executor": "Run",
+-    "Python.LonelyInteger.executor": "Run",
+-    "Python.MarsExploration.executor": "Run",
+-    "Python.MaximumPerimeterTriangle.executor": "Run",
+-    "Python.MigratoryBirds.executor": "Run",
+-    "Python.MinMaxNum.executor": "Run",
+-    "Python.MinimumAbsDiffInArray.executor": "Run",
+-    "Python.NumberLineJumps.executor": "Run",
+-    "Python.Pangrams.executor": "Run",
+-    "Python.PermutingTwoArrays.executor": "Run",
+-    "Python.PickingNumbers.executor": "Run",
+-    "Python.SalesByMatch.executor": "Run",
+-    "Python.SeparateTheNumbers.executor": "Run",
+-    "Python.SparseArrays.executor": "Run",
+-    "Python.SubarrayDivision2.executor": "Run",
+-    "Python.TowerBreakers.executor": "Run",
+-    "Python.XORStrings3.executor": "Run",
+-    "Python.ZigZagSequence.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "Day5",
+-    "settings.editor.selected.configurable": "preferences.pluginManager"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Python.Anagram.executor&quot;: &quot;Run&quot;,
++    &quot;Python.BetweenTwoSets.executor&quot;: &quot;Run&quot;,
++    &quot;Python.BreakingTheRecords.executor&quot;: &quot;Run&quot;,
++    &quot;Python.CaesarCipher.executor&quot;: &quot;Run&quot;,
++    &quot;Python.CamelCase.executor&quot;: &quot;Run&quot;,
++    &quot;Python.ClosestNumbers.executor&quot;: &quot;Run&quot;,
++    &quot;Python.CountingSort1.executor&quot;: &quot;Run&quot;,
++    &quot;Python.CountingValleys.executor&quot;: &quot;Run&quot;,
++    &quot;Python.DiagonalDifference.executor&quot;: &quot;Run&quot;,
++    &quot;Python.DivisibleSumPairs.executor&quot;: &quot;Run&quot;,
++    &quot;Python.DrawingBook.executor&quot;: &quot;Run&quot;,
++    &quot;Python.FindMedian.executor&quot;: &quot;Run&quot;,
++    &quot;Python.FlippingBits.executor&quot;: &quot;Run&quot;,
++    &quot;Python.FlippingTheMatrix.executor&quot;: &quot;Run&quot;,
++    &quot;Python.GradingStudents.executor&quot;: &quot;Run&quot;,
++    &quot;Python.LeftRotation.executor&quot;: &quot;Run&quot;,
++    &quot;Python.LonelyInteger.executor&quot;: &quot;Run&quot;,
++    &quot;Python.MarsExploration.executor&quot;: &quot;Run&quot;,
++    &quot;Python.MaximumPerimeterTriangle.executor&quot;: &quot;Run&quot;,
++    &quot;Python.MigratoryBirds.executor&quot;: &quot;Run&quot;,
++    &quot;Python.MinMaxNum.executor&quot;: &quot;Run&quot;,
++    &quot;Python.MinimumAbsDiffInArray.executor&quot;: &quot;Run&quot;,
++    &quot;Python.NumberLineJumps.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Pangrams.executor&quot;: &quot;Run&quot;,
++    &quot;Python.PermutingTwoArrays.executor&quot;: &quot;Run&quot;,
++    &quot;Python.PickingNumbers.executor&quot;: &quot;Run&quot;,
++    &quot;Python.SalesByMatch.executor&quot;: &quot;Run&quot;,
++    &quot;Python.SeparateTheNumbers.executor&quot;: &quot;Run&quot;,
++    &quot;Python.SparseArrays.executor&quot;: &quot;Run&quot;,
++    &quot;Python.SubarrayDivision2.executor&quot;: &quot;Run&quot;,
++    &quot;Python.TowerBreakers.executor&quot;: &quot;Run&quot;,
++    &quot;Python.XORStrings3.executor&quot;: &quot;Run&quot;,
++    &quot;Python.ZigZagSequence.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;Day5&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RunManager" selected="Python.Anagram">
+     <configuration name="Anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="CodingInterview" />
+@@ -343,14 +335,31 @@
+       <option name="project" value="LOCAL" />
+       <updated>1719235590795</updated>
+     </task>
+-    <option name="localTasksCounter" value="12" />
++    <task id="LOCAL-00012" summary="HackerRank Day5">
++      <option name="closed" value="true" />
++      <created>1719325359369</created>
++      <option name="number" value="00012" />
++      <option name="presentableId" value="LOCAL-00012" />
++      <option name="project" value="LOCAL" />
++      <updated>1719325359369</updated>
++    </task>
++    <task id="LOCAL-00013" summary="HackerRank Day5">
++      <option name="closed" value="true" />
++      <created>1719325364478</created>
++      <option name="number" value="00013" />
++      <option name="presentableId" value="LOCAL-00013" />
++      <option name="project" value="LOCAL" />
++      <updated>1719325364478</updated>
++    </task>
++    <option name="localTasksCounter" value="14" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="HackerRank" />
+     <MESSAGE value="HackerRank Day3" />
+     <MESSAGE value="HackerRank Day4" />
+-    <option name="LAST_COMMIT_MESSAGE" value="HackerRank Day4" />
++    <MESSAGE value="HackerRank Day5" />
++    <option name="LAST_COMMIT_MESSAGE" value="HackerRank Day5" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
