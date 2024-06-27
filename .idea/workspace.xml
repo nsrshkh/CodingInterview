@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7be4d4c-62aa-435e-9023-60b03eaaa592" name="Changes" comment="HackerRank Day4">
-      <change afterPath="$PROJECT_DIR$/Anagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaesarCipher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClosestNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeftRotation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MinimumAbsDiffInArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumberLineJumps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeparateTheNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TowerBreakers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MinMax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrongPassword.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CodingInterview.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CodingInterview.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +74,7 @@
     "Python.MarsExploration.executor": "Run",
     "Python.MaximumPerimeterTriangle.executor": "Run",
     "Python.MigratoryBirds.executor": "Run",
+    "Python.MinMax.executor": "Run",
     "Python.MinMaxNum.executor": "Run",
     "Python.MinimumAbsDiffInArray.executor": "Run",
     "Python.NumberLineJumps.executor": "Run",
@@ -87,16 +84,17 @@
     "Python.SalesByMatch.executor": "Run",
     "Python.SeparateTheNumbers.executor": "Run",
     "Python.SparseArrays.executor": "Run",
+    "Python.StrongPassword.executor": "Run",
     "Python.SubarrayDivision2.executor": "Run",
     "Python.TowerBreakers.executor": "Run",
     "Python.XORStrings3.executor": "Run",
     "Python.ZigZagSequence.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Day5",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "git-widget-placeholder": "Day6",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Anagram">
+  <component name="RunManager" selected="Python.StrongPassword">
     <configuration name="Anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
@@ -106,8 +104,9 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (CodingInterview)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Anagram.py" />
@@ -119,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="CaesarCipher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MinMax" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,33 +127,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (CodingInterview)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CaesarCipher.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ClosestNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodingInterview" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClosestNumbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MinMax.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,6 +155,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumberLineJumps.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StrongPassword" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingInterview" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StrongPassword.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,13 +229,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.StrongPassword" />
+      <item itemvalue="Python.MinMax" />
+      <item itemvalue="Python.Anagram" />
+      <item itemvalue="Python.NumberLineJumps" />
+      <item itemvalue="Python.TowerBreakers" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.StrongPassword" />
+        <item itemvalue="Python.MinMax" />
         <item itemvalue="Python.Anagram" />
         <item itemvalue="Python.NumberLineJumps" />
         <item itemvalue="Python.TowerBreakers" />
-        <item itemvalue="Python.CaesarCipher" />
-        <item itemvalue="Python.ClosestNumbers" />
       </list>
     </recent_temporary>
   </component>
