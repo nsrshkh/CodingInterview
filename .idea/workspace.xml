@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7be4d4c-62aa-435e-9023-60b03eaaa592" name="Changes" comment="HackerRank Day7">
+      <change afterPath="$PROJECT_DIR$/FibonacciModified.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,55 +49,78 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Anagram.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BetweenTwoSets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BreakingTheRecords.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CaesarCipher.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CamelCase.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ClosestNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CountingSort1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CountingValleys.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DiagonalDifference.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DivisibleSumPairs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DrawingBook.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DynamicArray.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FindMedian.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FlippingBits.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FlippingTheMatrix.executor&quot;: &quot;Run&quot;,
-    &quot;Python.GradingStudents.executor&quot;: &quot;Run&quot;,
-    &quot;Python.GridChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LeftRotation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LonelyInteger.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MarsExploration.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MaximumPerimeterTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MigratoryBirds.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MinMax.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MinMaxNum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MinimumAbsDiffInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MissingNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.NumberLineJumps.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Pangrams.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PermutingTwoArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PickingNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SalesByMatch.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SansaAndXOR.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SeparateTheNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SmartNumber2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SparseArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Python.StrongPassword.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SubarrayDivision2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TheFullCountingSort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TowerBreakers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.XORStrings3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ZigZagSequence.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Day7&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Anagram.executor": "Run",
+    "Python.BetweenTwoSets.executor": "Run",
+    "Python.BreakingTheRecords.executor": "Run",
+    "Python.CaesarCipher.executor": "Run",
+    "Python.CamelCase.executor": "Run",
+    "Python.ClosestNumbers.executor": "Run",
+    "Python.CountingSort1.executor": "Run",
+    "Python.CountingValleys.executor": "Run",
+    "Python.DiagonalDifference.executor": "Run",
+    "Python.DivisibleSumPairs.executor": "Run",
+    "Python.DrawingBook.executor": "Run",
+    "Python.DynamicArray.executor": "Run",
+    "Python.FibonacciModified.executor": "Run",
+    "Python.FindMedian.executor": "Run",
+    "Python.FlippingBits.executor": "Run",
+    "Python.FlippingTheMatrix.executor": "Run",
+    "Python.GradingStudents.executor": "Run",
+    "Python.GridChallenge.executor": "Run",
+    "Python.LeftRotation.executor": "Run",
+    "Python.LonelyInteger.executor": "Run",
+    "Python.MarsExploration.executor": "Run",
+    "Python.MaximumPerimeterTriangle.executor": "Run",
+    "Python.MigratoryBirds.executor": "Run",
+    "Python.MinMax.executor": "Run",
+    "Python.MinMaxNum.executor": "Run",
+    "Python.MinimumAbsDiffInArray.executor": "Run",
+    "Python.MissingNumbers.executor": "Run",
+    "Python.NumberLineJumps.executor": "Run",
+    "Python.Pangrams.executor": "Run",
+    "Python.PermutingTwoArrays.executor": "Run",
+    "Python.PickingNumbers.executor": "Run",
+    "Python.SalesByMatch.executor": "Run",
+    "Python.SansaAndXOR.executor": "Run",
+    "Python.SeparateTheNumbers.executor": "Run",
+    "Python.SmartNumber2.executor": "Run",
+    "Python.SparseArrays.executor": "Run",
+    "Python.StrongPassword.executor": "Run",
+    "Python.SubarrayDivision2.executor": "Run",
+    "Python.TheFullCountingSort.executor": "Run",
+    "Python.TowerBreakers.executor": "Run",
+    "Python.XORStrings3.executor": "Run",
+    "Python.ZigZagSequence.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Day7",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Python.SansaAndXOR">
+}]]></component>
+  <component name="RunManager" selected="Python.FibonacciModified">
+    <configuration name="FibonacciModified" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingInterview" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FibonacciModified.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="GridChallenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
@@ -163,28 +187,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SmartNumber2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodingInterview" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SmartNumber2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="TheFullCountingSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
@@ -231,19 +233,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.FibonacciModified" />
       <item itemvalue="Python.GridChallenge" />
       <item itemvalue="Python.MissingNumbers" />
       <item itemvalue="Python.SansaAndXOR" />
-      <item itemvalue="Python.SmartNumber2" />
       <item itemvalue="Python.TheFullCountingSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FibonacciModified" />
         <item itemvalue="Python.SansaAndXOR" />
         <item itemvalue="Python.GridChallenge" />
         <item itemvalue="Python.TheFullCountingSort" />
         <item itemvalue="Python.MissingNumbers" />
-        <item itemvalue="Python.SmartNumber2" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +377,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719509436469</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="HackerRank Day7">
+      <option name="closed" value="true" />
+      <created>1719561037181</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1719561037182</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
