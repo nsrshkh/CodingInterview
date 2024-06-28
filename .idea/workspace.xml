@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7be4d4c-62aa-435e-9023-60b03eaaa592" name="Changes" comment="HackerRank Day6">
+    <list default="true" id="c7be4d4c-62aa-435e-9023-60b03eaaa592" name="Changes" comment="HackerRank Day7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,10 +61,12 @@
     &quot;Python.DiagonalDifference.executor&quot;: &quot;Run&quot;,
     &quot;Python.DivisibleSumPairs.executor&quot;: &quot;Run&quot;,
     &quot;Python.DrawingBook.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DynamicArray.executor&quot;: &quot;Run&quot;,
     &quot;Python.FindMedian.executor&quot;: &quot;Run&quot;,
     &quot;Python.FlippingBits.executor&quot;: &quot;Run&quot;,
     &quot;Python.FlippingTheMatrix.executor&quot;: &quot;Run&quot;,
     &quot;Python.GradingStudents.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GridChallenge.executor&quot;: &quot;Run&quot;,
     &quot;Python.LeftRotation.executor&quot;: &quot;Run&quot;,
     &quot;Python.LonelyInteger.executor&quot;: &quot;Run&quot;,
     &quot;Python.MarsExploration.executor&quot;: &quot;Run&quot;,
@@ -73,71 +75,29 @@
     &quot;Python.MinMax.executor&quot;: &quot;Run&quot;,
     &quot;Python.MinMaxNum.executor&quot;: &quot;Run&quot;,
     &quot;Python.MinimumAbsDiffInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MissingNumbers.executor&quot;: &quot;Run&quot;,
     &quot;Python.NumberLineJumps.executor&quot;: &quot;Run&quot;,
     &quot;Python.Pangrams.executor&quot;: &quot;Run&quot;,
     &quot;Python.PermutingTwoArrays.executor&quot;: &quot;Run&quot;,
     &quot;Python.PickingNumbers.executor&quot;: &quot;Run&quot;,
     &quot;Python.SalesByMatch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SansaAndXOR.executor&quot;: &quot;Run&quot;,
     &quot;Python.SeparateTheNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SmartNumber2.executor&quot;: &quot;Run&quot;,
     &quot;Python.SparseArrays.executor&quot;: &quot;Run&quot;,
     &quot;Python.StrongPassword.executor&quot;: &quot;Run&quot;,
     &quot;Python.SubarrayDivision2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TheFullCountingSort.executor&quot;: &quot;Run&quot;,
     &quot;Python.TowerBreakers.executor&quot;: &quot;Run&quot;,
     &quot;Python.XORStrings3.executor&quot;: &quot;Run&quot;,
     &quot;Python.ZigZagSequence.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Day6&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Day7&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.StrongPassword">
-    <configuration name="Anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodingInterview" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 (CodingInterview)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Anagram.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="MinMax" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodingInterview" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 (CodingInterview)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MinMax.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="NumberLineJumps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.SansaAndXOR">
+    <configuration name="GridChallenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumberLineJumps.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GridChallenge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="StrongPassword" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MissingNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StrongPassword.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MissingNumbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TowerBreakers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SansaAndXOR" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,7 +154,51 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TowerBreakers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SansaAndXOR.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SmartNumber2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingInterview" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SmartNumber2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TheFullCountingSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingInterview" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TheFullCountingSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,19 +231,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.StrongPassword" />
-      <item itemvalue="Python.MinMax" />
-      <item itemvalue="Python.Anagram" />
-      <item itemvalue="Python.NumberLineJumps" />
-      <item itemvalue="Python.TowerBreakers" />
+      <item itemvalue="Python.GridChallenge" />
+      <item itemvalue="Python.MissingNumbers" />
+      <item itemvalue="Python.SansaAndXOR" />
+      <item itemvalue="Python.SmartNumber2" />
+      <item itemvalue="Python.TheFullCountingSort" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.StrongPassword" />
-        <item itemvalue="Python.MinMax" />
-        <item itemvalue="Python.Anagram" />
-        <item itemvalue="Python.NumberLineJumps" />
-        <item itemvalue="Python.TowerBreakers" />
+        <item itemvalue="Python.SansaAndXOR" />
+        <item itemvalue="Python.GridChallenge" />
+        <item itemvalue="Python.TheFullCountingSort" />
+        <item itemvalue="Python.MissingNumbers" />
+        <item itemvalue="Python.SmartNumber2" />
       </list>
     </recent_temporary>
   </component>
@@ -363,7 +367,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719430002299</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="HackerRank Day7">
+      <option name="closed" value="true" />
+      <created>1719509436469</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1719509436469</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -371,7 +383,8 @@
     <MESSAGE value="HackerRank Day3" />
     <MESSAGE value="HackerRank Day4" />
     <MESSAGE value="HackerRank Day6" />
-    <option name="LAST_COMMIT_MESSAGE" value="HackerRank Day6" />
+    <MESSAGE value="HackerRank Day7" />
+    <option name="LAST_COMMIT_MESSAGE" value="HackerRank Day7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
