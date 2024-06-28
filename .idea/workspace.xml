@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7be4d4c-62aa-435e-9023-60b03eaaa592" name="Changes" comment="HackerRank Day7">
-      <change afterPath="$PROJECT_DIR$/FibonacciModified.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MisèreNim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrimeDates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SherlockAndArray.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,13 +80,16 @@
     "Python.MinMaxNum.executor": "Run",
     "Python.MinimumAbsDiffInArray.executor": "Run",
     "Python.MissingNumbers.executor": "Run",
+    "Python.MisèreNim.executor": "Run",
     "Python.NumberLineJumps.executor": "Run",
     "Python.Pangrams.executor": "Run",
     "Python.PermutingTwoArrays.executor": "Run",
     "Python.PickingNumbers.executor": "Run",
+    "Python.PrimeDates.executor": "Run",
     "Python.SalesByMatch.executor": "Run",
     "Python.SansaAndXOR.executor": "Run",
     "Python.SeparateTheNumbers.executor": "Run",
+    "Python.SherlockAndArray.executor": "Run",
     "Python.SmartNumber2.executor": "Run",
     "Python.SparseArrays.executor": "Run",
     "Python.StrongPassword.executor": "Run",
@@ -94,11 +99,11 @@
     "Python.XORStrings3.executor": "Run",
     "Python.ZigZagSequence.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Day7",
+    "git-widget-placeholder": "Day8",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.FibonacciModified">
+  <component name="RunManager" selected="Python.MisèreNim">
     <configuration name="FibonacciModified" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
@@ -121,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="GridChallenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MisèreNim" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GridChallenge.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MisèreNim.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MissingNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PrimeDates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,7 +161,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MissingNumbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PrimeDates.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TheFullCountingSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SherlockAndArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,7 +205,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TheFullCountingSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SherlockAndArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,19 +238,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.MisèreNim" />
+      <item itemvalue="Python.PrimeDates" />
+      <item itemvalue="Python.SherlockAndArray" />
       <item itemvalue="Python.FibonacciModified" />
-      <item itemvalue="Python.GridChallenge" />
-      <item itemvalue="Python.MissingNumbers" />
       <item itemvalue="Python.SansaAndXOR" />
-      <item itemvalue="Python.TheFullCountingSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MisèreNim" />
+        <item itemvalue="Python.SherlockAndArray" />
+        <item itemvalue="Python.PrimeDates" />
         <item itemvalue="Python.FibonacciModified" />
         <item itemvalue="Python.SansaAndXOR" />
-        <item itemvalue="Python.GridChallenge" />
-        <item itemvalue="Python.TheFullCountingSort" />
-        <item itemvalue="Python.MissingNumbers" />
       </list>
     </recent_temporary>
   </component>
