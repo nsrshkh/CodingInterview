@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7be4d4c-62aa-435e-9023-60b03eaaa592" name="Changes" comment="HackerRank Day7">
-      <change afterPath="$PROJECT_DIR$/leetcode/CanPlaceFlowers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/ReverseVowels.py" afterDir="false" />
+    <list default="true" id="c7be4d4c-62aa-435e-9023-60b03eaaa592" name="Changes" comment="Leetcode">
+      <change afterPath="$PROJECT_DIR$/leetcode/ReverseWords.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/KidsWithCandies.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/KidsWithCandies.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +87,7 @@
     "Python.PickingNumbers.executor": "Run",
     "Python.PrimeDates.executor": "Run",
     "Python.ReverseVowels.executor": "Run",
+    "Python.ReverseWords.executor": "Run",
     "Python.SalesByMatch.executor": "Run",
     "Python.SansaAndXOR.executor": "Run",
     "Python.SeparateTheNumbers.executor": "Run",
@@ -106,7 +105,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.ReverseVowels">
+  <component name="RunManager" selected="Python.ReverseWords">
     <configuration name="CanPlaceFlowers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
@@ -195,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SherlockAndArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseWords" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,11 +203,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SherlockAndArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/ReverseWords.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,16 +244,16 @@
       <item itemvalue="Python.CanPlaceFlowers" />
       <item itemvalue="Python.KidsWithCandies" />
       <item itemvalue="Python.ReverseVowels" />
+      <item itemvalue="Python.ReverseWords" />
       <item itemvalue="Python.MisèreNim" />
-      <item itemvalue="Python.SherlockAndArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ReverseWords" />
         <item itemvalue="Python.ReverseVowels" />
         <item itemvalue="Python.CanPlaceFlowers" />
         <item itemvalue="Python.KidsWithCandies" />
         <item itemvalue="Python.MisèreNim" />
-        <item itemvalue="Python.SherlockAndArray" />
       </list>
     </recent_temporary>
   </component>
@@ -394,7 +393,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719561037182</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Leetcode">
+      <option name="closed" value="true" />
+      <created>1741525037475</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1741525037475</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -403,7 +410,8 @@
     <MESSAGE value="HackerRank Day4" />
     <MESSAGE value="HackerRank Day6" />
     <MESSAGE value="HackerRank Day7" />
-    <option name="LAST_COMMIT_MESSAGE" value="HackerRank Day7" />
+    <MESSAGE value="Leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
