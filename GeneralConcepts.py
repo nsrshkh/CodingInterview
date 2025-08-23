@@ -42,15 +42,15 @@ import time
 
 def timer(func):
     def wrapper(*args, **kwargs):
-        start = time.time()
+        start = time.time_ns()
         result = func(*args, **kwargs)
-        end = time.time()
-        print(f"{func.__name__} took {end-start:.4f} seconds")
+        end = time.time_ns()
+        print(f"{func.__name__} took {end-start:.9f} nanoseconds")
         return result
     return wrapper
 
-@timer
-def slow_function():
-    time.sleep(1)
-
-slow_function()
+# @timer
+# def slow_function():
+#     time.sleep(1)
+#
+# slow_function()
