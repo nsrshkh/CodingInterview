@@ -1,3 +1,4 @@
+import cProfile
 def unique(s):
     n = []
     for i in range(len(s)):
@@ -19,7 +20,8 @@ def anagram(s):
 # s = "aaabbb"
 # s = "asdfjoieufoa"
 # s = "mvdalvkiopaufl"
-# s = "fdhlvosfpafhalll"
-s = "xaxbbbxx"
+s = "fdhlvosfpafhalll"
+# s = "xaxbbbxx"
 
-print(anagram(s))
+cProfile.run('print(anagram(s))')
+# print(anagram(s))

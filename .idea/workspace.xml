@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7be4d4c-62aa-435e-9023-60b03eaaa592" name="Changes" comment="Leetcode">
-      <change afterPath="$PROJECT_DIR$/leetcode/IncreasingTriplet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/ProductExceptSelf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fiverr/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralConcepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proctor&amp;Gamble/Anagram2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proctor&amp;Gamble/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/Fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/SortingWithoutFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/StringCompress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/Anagram.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +33,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Day9" />
+        <entry key="$PROJECT_DIR$" value="Day10" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,11 +50,13 @@
     &quot;accountId&quot;: &quot;78dea38e-0621-4ea5-b7f5-31e1736ef459&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2i8t9TuKA5viyhRCO3g6ZekIVwZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,6 +64,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Anagram.executor": "Run",
+    "Python.Anagram2 (1).executor": "Run",
+    "Python.Anagram2.executor": "Run",
     "Python.BetweenTwoSets.executor": "Run",
     "Python.BreakingTheRecords.executor": "Run",
     "Python.CaesarCipher.executor": "Run",
@@ -65,10 +78,12 @@
     "Python.DivisibleSumPairs.executor": "Run",
     "Python.DrawingBook.executor": "Run",
     "Python.DynamicArray.executor": "Run",
+    "Python.Fibonacci.executor": "Run",
     "Python.FibonacciModified.executor": "Run",
     "Python.FindMedian.executor": "Run",
     "Python.FlippingBits.executor": "Run",
     "Python.FlippingTheMatrix.executor": "Run",
+    "Python.GeneralConcepts.executor": "Run",
     "Python.GradingStudents.executor": "Run",
     "Python.GridChallenge.executor": "Run",
     "Python.IncreasingTriplet.executor": "Run",
@@ -96,7 +111,9 @@
     "Python.SeparateTheNumbers.executor": "Run",
     "Python.SherlockAndArray.executor": "Run",
     "Python.SmartNumber2.executor": "Run",
+    "Python.SortingWithoutFunction.executor": "Run",
     "Python.SparseArrays.executor": "Run",
+    "Python.StringCompress.executor": "Run",
     "Python.StrongPassword.executor": "Run",
     "Python.SubarrayDivision2.executor": "Run",
     "Python.TheFullCountingSort.executor": "Run",
@@ -104,13 +121,27 @@
     "Python.XORStrings3.executor": "Run",
     "Python.ZigZagSequence.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Day10",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "git-widget-placeholder": "Day11",
+    "last_opened_file_path": "C:/Users/nasir/PycharmProjects/CodingInterview/Fiverr",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.IncreasingTriplet">
-    <configuration name="CanPlaceFlowers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nasir\PycharmProjects\CodingInterview\Fiverr" />
+      <recent name="C:\Users\nasir\PycharmProjects\CodingInterview\leetcode" />
+      <recent name="C:\Users\nasir\PycharmProjects\CodingInterview" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nasir\PycharmProjects\CodingInterview\Proctor&amp;Gamble" />
+      <recent name="C:\Users\nasir\PycharmProjects\CodingInterview" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Anagram2 (1)">
+    <configuration name="Anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,11 +150,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.13 (JupyterProject)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/CanPlaceFlowers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Anagram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="IncreasingTriplet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Anagram2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,11 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Proctor&amp;Gamble" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/IncreasingTriplet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Proctor&amp;Gamble/Anagram2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ProductExceptSelf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Anagram2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,11 +195,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/ProductExceptSelf.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\nasir\PycharmProjects\CodingInterview\Proctor&amp;Gamble\Anagram2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +208,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ReverseVowels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,7 +221,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/ReverseVowels.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/Fibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +230,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ReverseWords" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="GeneralConcepts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,11 +239,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Proctor&amp;Gamble" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/ReverseWords.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\nasir\PycharmProjects\CodingInterview\GeneralConcepts.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,26 +277,26 @@
     <list>
       <item itemvalue="Python.FormatJson" />
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.IncreasingTriplet" />
-      <item itemvalue="Python.ProductExceptSelf" />
-      <item itemvalue="Python.CanPlaceFlowers" />
-      <item itemvalue="Python.ReverseVowels" />
-      <item itemvalue="Python.ReverseWords" />
+      <item itemvalue="Python.Anagram2" />
+      <item itemvalue="Python.Anagram2 (1)" />
+      <item itemvalue="Python.GeneralConcepts" />
+      <item itemvalue="Python.Anagram" />
+      <item itemvalue="Python.Fibonacci" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.IncreasingTriplet" />
-        <item itemvalue="Python.ProductExceptSelf" />
-        <item itemvalue="Python.ReverseWords" />
-        <item itemvalue="Python.ReverseVowels" />
-        <item itemvalue="Python.CanPlaceFlowers" />
+        <item itemvalue="Python.Anagram2 (1)" />
+        <item itemvalue="Python.Anagram2" />
+        <item itemvalue="Python.GeneralConcepts" />
+        <item itemvalue="Python.Anagram" />
+        <item itemvalue="Python.Fibonacci" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
       </set>
     </attachedChunks>
   </component>
@@ -413,7 +445,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741525835959</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Leetcode">
+      <option name="closed" value="true" />
+      <created>1741698081144</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1741698081144</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
