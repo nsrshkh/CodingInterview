@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7be4d4c-62aa-435e-9023-60b03eaaa592" name="Changes" comment="Practice Day12">
-      <change afterPath="$PROJECT_DIR$/Proctor&amp;Gamble/AddingListElements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proctor&amp;Gamble/FindCharacters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proctor&amp;Gamble/LongestConsecutiveSequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proctor&amp;Gamble/RainWaterTrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proctor&amp;Gamble/TrickQuestion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/Anagram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FibonacciModified.py" beforeDir="false" afterPath="$PROJECT_DIR$/FibonacciModified.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,92 +52,94 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.AddingListElements.executor": "Run",
-    "Python.Anagram.executor": "Run",
-    "Python.Anagram2 (1).executor": "Run",
-    "Python.Anagram2.executor": "Run",
-    "Python.BetweenTwoSets.executor": "Run",
-    "Python.BreakingTheRecords.executor": "Run",
-    "Python.CaesarCipher.executor": "Run",
-    "Python.CamelCase.executor": "Run",
-    "Python.CanPlaceFlowers.executor": "Run",
-    "Python.ClosestNumbers.executor": "Run",
-    "Python.ContextManager.executor": "Run",
-    "Python.CountingSort1.executor": "Run",
-    "Python.CountingValleys.executor": "Run",
-    "Python.DeDuplicate.executor": "Run",
-    "Python.DiagonalDifference.executor": "Run",
-    "Python.DictionaryWordsCheck.executor": "Run",
-    "Python.DivisibleSumPairs.executor": "Run",
-    "Python.DrawingBook.executor": "Run",
-    "Python.Dunder.executor": "Run",
-    "Python.DynamicArray.executor": "Run",
-    "Python.Factorial.executor": "Run",
-    "Python.FactorialTrailingZeros.executor": "Run",
-    "Python.Fibonacci.executor": "Run",
-    "Python.FibonacciModified.executor": "Run",
-    "Python.FindCharacters.executor": "Run",
-    "Python.FindMedian.executor": "Run",
-    "Python.FindMissingNumber.executor": "Run",
-    "Python.FlippingBits.executor": "Run",
-    "Python.FlippingTheMatrix.executor": "Run",
-    "Python.GeneralConcepts.executor": "Run",
-    "Python.GradingStudents.executor": "Run",
-    "Python.GridChallenge.executor": "Run",
-    "Python.IncreasingTriplet.executor": "Run",
-    "Python.KidsWithCandies.executor": "Run",
-    "Python.LeftRotation.executor": "Run",
-    "Python.LonelyInteger.executor": "Run",
-    "Python.LongestConsecutiveSequence.executor": "Run",
-    "Python.MarsExploration.executor": "Run",
-    "Python.MaximumPerimeterTriangle.executor": "Run",
-    "Python.MetaClass.executor": "Run",
-    "Python.MigratoryBirds.executor": "Run",
-    "Python.MinMax.executor": "Run",
-    "Python.MinMaxNum.executor": "Run",
-    "Python.MinimumAbsDiffInArray.executor": "Run",
-    "Python.MissingNumbers.executor": "Run",
-    "Python.MisèreNim.executor": "Run",
-    "Python.NumberLineJumps.executor": "Run",
-    "Python.Oops.executor": "Run",
-    "Python.Palindrome.executor": "Run",
-    "Python.Pangrams.executor": "Run",
-    "Python.PerfectSquareNumberCheck.executor": "Run",
-    "Python.PermutingTwoArrays.executor": "Run",
-    "Python.PickingNumbers.executor": "Run",
-    "Python.PrimeDates.executor": "Run",
-    "Python.ProductExceptSelf.executor": "Run",
-    "Python.RemoveDuplicatesFromSortedArray.executor": "Run",
-    "Python.ReplaceStringWithGivenCharacter.executor": "Run",
-    "Python.ReverseVowels.executor": "Run",
-    "Python.ReverseWords.executor": "Run",
-    "Python.SalesByMatch.executor": "Run",
-    "Python.SansaAndXOR.executor": "Run",
-    "Python.SeparateTheNumbers.executor": "Run",
-    "Python.SherlockAndArray.executor": "Run",
-    "Python.SmartNumber2.executor": "Run",
-    "Python.SortingCode.executor": "Run",
-    "Python.SortingWithoutFunction.executor": "Run",
-    "Python.SparseArrays.executor": "Run",
-    "Python.StringCompress.executor": "Run",
-    "Python.StrongPassword.executor": "Run",
-    "Python.SubarrayDivision2.executor": "Run",
-    "Python.TheFullCountingSort.executor": "Run",
-    "Python.TowerBreakers.executor": "Run",
-    "Python.Vectorized.executor": "Run",
-    "Python.XORStrings3.executor": "Run",
-    "Python.ZigZagSequence.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Day11",
-    "last_opened_file_path": "C:/Users/nasir/PycharmProjects/CodingInterview/Fiverr",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.AddingListElements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Anagram2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Anagram2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BetweenTwoSets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BreakingTheRecords.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CaesarCipher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CamelCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CanPlaceFlowers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ClosestNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ContextManager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CountingSort1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CountingValleys.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DeDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DiagonalDifference.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DictionaryWordsCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DivisibleSumPairs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DrawingBook.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dunder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DynamicArray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FactorialTrailingZeros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FibonacciModified.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FindCharacters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FindMedian.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FindMissingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FlippingBits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FlippingTheMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GeneralConcepts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GradingStudents.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GridChallenge.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IncreasingTriplet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.KidsWithCandies.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LeftRotation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LonelyInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LongestConsecutiveSequence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MarsExploration.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MaximumPerimeterTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MetaClass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MigratoryBirds.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MinMax.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MinMaxNum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MinimumAbsDiffInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MissingNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MisèreNim.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NumberLineJumps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Oops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pangrams.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PerfectSquareNumberCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PermutingTwoArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PickingNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrimeDates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ProductExceptSelf.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RainWaterTrap.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RemoveDuplicatesFromSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ReplaceStringWithGivenCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ReverseVowels.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ReverseWords.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SalesByMatch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SansaAndXOR.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SeparateTheNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SherlockAndArray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SmartNumber2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SortingCode.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SortingWithoutFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SparseArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StringCompress.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StrongPassword.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SubarrayDivision2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TheFullCountingSort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TowerBreakers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TrickQuestion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vectorized.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XORStrings3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ZigZagSequence.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Day11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nasir/PycharmProjects/CodingInterview/Fiverr&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\nasir\PycharmProjects\CodingInterview\Fiverr" />
@@ -152,29 +151,7 @@
       <recent name="C:\Users\nasir\PycharmProjects\CodingInterview" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.LongestConsecutiveSequence">
-    <configuration name="AddingListElements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodingInterview" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Proctor&amp;Gamble" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Proctor&amp;Gamble/AddingListElements.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.TrickQuestion">
     <configuration name="Anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
@@ -189,28 +166,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Anagram.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="FibonacciModified" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodingInterview" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FibonacciModified.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,6 +218,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="RainWaterTrap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingInterview" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Proctor&amp;Gamble" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Proctor&amp;Gamble/RainWaterTrap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TrickQuestion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingInterview" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Proctor&amp;Gamble" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Proctor&amp;Gamble/TrickQuestion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="CodingInterview" />
       <option name="ENV_FILES" value="" />
@@ -286,21 +285,21 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.FormatJson" />
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.AddingListElements" />
+      <item itemvalue="Python.FormatJson" />
       <item itemvalue="Python.Anagram" />
-      <item itemvalue="Python.FibonacciModified" />
       <item itemvalue="Python.FindCharacters" />
       <item itemvalue="Python.LongestConsecutiveSequence" />
+      <item itemvalue="Python.RainWaterTrap" />
+      <item itemvalue="Python.TrickQuestion" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TrickQuestion" />
+        <item itemvalue="Python.RainWaterTrap" />
         <item itemvalue="Python.LongestConsecutiveSequence" />
         <item itemvalue="Python.FindCharacters" />
         <item itemvalue="Python.Anagram" />
-        <item itemvalue="Python.AddingListElements" />
-        <item itemvalue="Python.FibonacciModified" />
       </list>
     </recent_temporary>
   </component>
@@ -488,7 +487,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756041267917</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Practice Day12">
+      <option name="closed" value="true" />
+      <created>1756056401155</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1756056401155</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
